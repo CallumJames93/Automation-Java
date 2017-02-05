@@ -1,0 +1,7 @@
+<suite name = "LoginPageContent">
+    <test name= "LoginContent" group-by-instances="true">
+        <classes>     
+        <class name = "facebookAutomation.Footer"/>
+        </classes>
+    </test>
+</suite>

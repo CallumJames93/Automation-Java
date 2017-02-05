@@ -1,0 +1,7 @@
+<suite name = "HomepageContent">
+    <test name= "HomepageContent" group-by-instances="true">
+        <classes>     
+        <class name = "facebookAutomation.HomepageHeader"/>
+        </classes>
+    </test>
+</suite>

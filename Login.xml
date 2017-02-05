@@ -1,0 +1,8 @@
+<suite name = "LoginSuite">
+    
+    <test name= "Login">
+        <classes>     
+        <class name = "facebookAutomation.Login"/>
+        </classes>
+    </test>
+</suite>

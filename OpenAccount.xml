@@ -1,0 +1,9 @@
+<suite name = "OpenAccountSuite">
+    
+    <test name= "Open Account">
+        <classes>     
+        <class name = "facebookAutomation.CreateAccountMale"/>
+        <class name = "facebookAutomation.CreateAccountFemale"/>
+        </classes>
+    </test>
+</suite>
